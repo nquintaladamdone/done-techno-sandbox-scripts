@@ -25,6 +25,12 @@ Ce script nécessite un **redémarrage** de PowerShell suite aux modifications d
 post_sandbox.ps1
 ```
 
+## 4. Modifier la page d'acceuil de Chrome
+Modifier la page d'acceuil et la page de démarrage de Chrome pour la page suivante:
+```html
+C:\Users\%USER%\Documents\homepage.html
+```
+
 ### Autres suggestion de package non inclu dans le script:
 - Angular CLI
 - ReSharper
